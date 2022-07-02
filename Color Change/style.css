@@ -1,0 +1,13 @@
+main #btn-box{
+    height: 50vh;
+}
+
+main div{
+    display:flex;
+    align-items:flex-start;
+    justify-content: center;
+}
+
+#description_box{
+    margin-top:200px;
+}
